@@ -17,9 +17,9 @@
 
   ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues open](https://img.shields.io/github/issues/uifort/bamburgh-ui-kit-free.svg)](https://github.com/uifort/bamburgh-ui-kit-free/issues)
-  [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/uifort/bamburgh-ui-kit-free.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-kit-react/issues?q=is%3Aissue+is%3Aclosed) 
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/uifort/bamburgh-ui-kit-free.svg)](https://github.com/uifort/bamburgh-ui-kit-free/pulls)
+  [![GitHub Issues open](https://img.shields.io/github/issues/uifort/bamburgh-ui-kit-pro.svg)](https://github.com/uifort/bamburgh-ui-kit-pro/issues)
+  [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/uifort/bamburgh-ui-kit-pro.svg?maxAge=2592000)](https://github.com/uifort/bamburgh-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) 
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/uifort/bamburgh-ui-kit-pro.svg)](https://github.com/uifort/bamburgh-ui-kit-pro/pulls)
   [![License](https://img.shields.io/badge/license-UiFort-blue.svg)](/LICENSE)
 
 </div>
@@ -89,7 +89,7 @@ Stay in touch with the UiFort team to find out when we release new articles, UI 
 
 We send out discount coupons from time to time to our subscribers. 
 
-Twitter: <https://twitter.com/UiFort>
+Twitter: <https://twitter.com/uifort1>
 
 Facebook: <https://www.facebook.com/UiFort>
 
