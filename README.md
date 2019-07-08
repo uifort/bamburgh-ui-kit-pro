@@ -9,7 +9,7 @@
     <a href="https://twitter.com/intent/tweet?url=https://uifort.com/free-ui-kits/bamburgh-ui-kit-free.html&text=Bamburgh%20is%20a%20PRO%20Bootstrap%204%20UI%20Kit%20that%20is%20perfect%20for%20building%20highly%20customised%20presentation%20websites%20and%20application%20dashboards.">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
-    <a href="https://twitter.com/designrevision">
+    <a href="https://twitter.com/uifort1">
         <img src="https://img.shields.io/twitter/follow/uifort1.svg?style=social&label=Follow" />
     </a>
 </h1>
